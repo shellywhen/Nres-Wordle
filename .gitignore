@@ -6,6 +6,7 @@ node_modules
 /data
 .pkl
 .csv
+/script
 
 
 # local env files
