@@ -1,2 +1,0 @@
-# Nres-Wordle
-Undergraduate Thesis
