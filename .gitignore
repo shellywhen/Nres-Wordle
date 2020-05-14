@@ -3,6 +3,10 @@ node_modules
 /dist
 /.ipynb_checkpoints
 .ipynb
+/data
+.pkl
+.csv
+
 
 # local env files
 .env.local
