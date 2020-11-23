@@ -3,7 +3,6 @@ node_modules
 /dist
 /.ipynb_checkpoints
 .ipynb
-
 .pkl
 .csv
 /script
