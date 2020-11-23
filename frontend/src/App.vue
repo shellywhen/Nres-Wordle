@@ -5,6 +5,8 @@
       |
       <router-link to="/create">Create</router-link>  
       |
+      <router-link to="/geography">Geo</router-link>  
+      |
       <router-link to="/gallery">Gallery</router-link>
       |
       <a href="https://github.com/jasondavies/d3-cloud" target="_blank">API</a>
